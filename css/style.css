@@ -371,8 +371,8 @@ span, a, a:hover {
 /* ====================== [ End Button Style ] ====================== */
 /* ====================== [ 05 Start Cursor Style ] ====================== */
 .cursor {
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   background-color: #ccc;
   border-radius: 50%;
   position: absolute;
@@ -383,8 +383,7 @@ span, a, a:hover {
   transition: none;
   Pointer-events: none;
   z-index: 9999999999;
-  opacity: .8;
- }
+  opacity: .8; }
 
 .cursor2 {
   display: none; }
@@ -895,12 +894,9 @@ span, a, a:hover {
     color: #fff;
     opacity: 0;
     visibility: hidden;
-    -webkit-transition: opacity .5s,
- visibility .5s;
-    -o-transition: opacity .5s,
- visibility .5s;
-    transition: opacity .5s,
- visibility .5s; }
+    -webkit-transition: opacity .5s, visibility .5s;
+    -o-transition: opacity .5s, visibility .5s;
+    transition: opacity .5s, visibility .5s; }
     .slider .parallax-slider .caption h1 .stroke {
       -webkit-text-stroke-width: 1px;
       -webkit-text-stroke-color: #fff;
@@ -1030,12 +1026,9 @@ span, a, a:hover {
     color: #fff;
     opacity: 0;
     visibility: hidden;
-    -webkit-transition: opacity .5s,
- visibility .5s;
-    -o-transition: opacity .5s,
- visibility .5s;
-    transition: opacity .5s,
- visibility .5s; }
+    -webkit-transition: opacity .5s, visibility .5s;
+    -o-transition: opacity .5s, visibility .5s;
+    transition: opacity .5s, visibility .5s; }
     .slide-full .capt h1 .stroke {
       -webkit-text-stroke-width: 1px;
       -webkit-text-stroke-color: #fff;
@@ -1654,12 +1647,9 @@ span, a, a:hover {
       color: #fff;
       opacity: 0;
       visibility: hidden;
-      -webkit-transition: opacity .5s,
- visibility .5s;
-      -o-transition: opacity .5s,
- visibility .5s;
-      transition: opacity .5s,
- visibility .5s; }
+      -webkit-transition: opacity .5s, visibility .5s;
+      -o-transition: opacity .5s, visibility .5s;
+      transition: opacity .5s, visibility .5s; }
       .slider-portfolio .swiper-slide .caption h1 .stroke {
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: #fff;
